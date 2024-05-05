@@ -1,0 +1,5 @@
+#This code will require you to install these libraries
+pillow
+pytest
+serpapi
+spotipy
